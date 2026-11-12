@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "McpFunc": {
+      "type": "http",
+      "url": "https://hilltop-mcp-gah5h9avh9ejfvac.westus2-01.azurewebsites.net/runtime/webhooks/mcp"
+    }
+  }
+}
